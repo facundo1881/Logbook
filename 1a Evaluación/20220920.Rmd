@@ -1,0 +1,57 @@
+---
+title: "Logbook"
+author: "Juan José Torralba"
+date: "2023-01-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Ingeniero igual a pelagato
+investigar circuitos digitales
+plaqca de arduino 
+canal suez esta bloqueado
+
+paralelismo circuito digitaal y el programa que lo simula
+
+Secuencias de imagenes, no videos, pero si gifs que es mejor, para lo que estamos haciendo
+Hay que ahorrar datos.
+
+Programa de simulación de circuitos digital 
+
+Marc Vidal: "La era de la humanidad".
+
+
+Hay que ver fundamentos, para descargar todo lo que hay, en nuestra querida materia de SIR
+
+digital simulator
+
+Gif animado: 
+
+llega internet cerrado, en los semaforos
+
+En nuestros trabajos debemos hacer números, no monigotes
+
+En el proyecto del sremaforo solo falta la transmisión
+
+Tia485
+
+Miniproyecto
+
+Asistente de diseño digital, para poder usar la funcion que podemos usar, y asi no 
+podernos equivocarnos
+
+display de reloges
+
+noi se usa sistema secuenjcial, simno un sistema de complejos, no es secuencial
+
+
+Examen el auto fantastico, hay que verlo 
+se puede hacer un contador, no es necesario que reversible
+
+"Diagrama de estado, y ver sus transiciones"
+(No usaremos puerta lógica)
+
+circuito secuencial es creado solo, nosotros no solemos hacerlo, si tenemmos el programa claro esta
+
